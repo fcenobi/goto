@@ -67,3 +67,5 @@ else
 	_goto_install_error "Error sourcing goto in your startup file.."
 	_goto_install_error "E.g ~/.bashrc ~/.zshrc etc.."
 fi
+
+cat .config/goto > ~/.config/goto
