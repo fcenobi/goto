@@ -57,3 +57,4 @@ varlib /var/lib
 varlocal /var/local
 vtomcat /var/lib/tomcat9
 www /var/www
+git /usr/local/src/git/
